@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Barre d'état assortie au bandeau ; navigation claire comme le contenu. -->
+    <style name="Theme.ForgeFP" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#132A35</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#F6F5F1</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">#F6F5F1</item>
+    </style>
+</resources>
